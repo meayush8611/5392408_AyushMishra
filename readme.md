@@ -25,8 +25,7 @@ This repository contains modules, assignments, and proof of completion.
 ### 🖼️ Agile Quiz Completion Screenshot:
 
 
-
-![Agile Quiz Screenshot](sdlc/greatLearning.png)
+![Agile Quiz Screenshot](sdlc/greatLearning.jpeg)
 
 
 
@@ -48,7 +47,7 @@ This repository contains modules, assignments, and proof of completion.
 
 
 
-![SimpliLearn Git Certificate](git_training/sipliLearn.png)
+[SimpliLearn certificate](git_training/simpliLearn.png)
 
 
 
