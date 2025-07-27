@@ -47,7 +47,7 @@ This repository contains modules, assignments, and proof of completion.
 
 
 
-[SimpliLearn certificate](git_training/simpliLearn.png)
+![SimpliLearn certificate](git_training/simpliLearn.png)
 
 
 
