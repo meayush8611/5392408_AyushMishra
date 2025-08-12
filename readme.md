@@ -43,11 +43,11 @@ This repository contains modules, assignments, and proof of completion.
 
 - Learned to initialize and manage Git repositories (local and remote).
 
--Practiced staging, committing, and pushing code changes to GitHub.
+- Practiced staging, committing, and pushing code changes to GitHub.
 
--Used Git commands such as git init, git clone, git add, git commit, git push, git pull, and git merge.
+- Used Git commands such as git init, git clone, git add, git commit, git push, git pull, and git merge.
 
--Understood best practices for commit messages and maintaining a clean repository history.
+- Understood best practices for commit messages and maintaining a clean repository history.
 
 
 
@@ -85,12 +85,12 @@ This repository contains modules, assignments, and proof of completion.
 
 ### 🖼️ Linux Command History Screenshots:
 
-![Linux History Screenshot 1](Linux/History 1.png)
-![Linux History Screenshot 2](Linux/History 2.png)
-![Linux History Screenshot 3](Linux/History 3.png)
-![Linux History Screenshot 4](Linux/History 4.png)
-![Linux History Screenshot 5](Linux/History 5.png)
-![Linux History Screenshot 6](Linux/History 6.png)
 
+![Linux History Screenshot 1](<Linux/History 1.png>)
+![Linux History Screenshot 2](<Linux/History 2.png>)
+![Linux History Screenshot 3](<Linux/History 3.png>)
+![Linux History Screenshot 4](<Linux/History 4.png>)
+![Linux History Screenshot 5](<Linux/History 5.png>)
+![Linux History Screenshot 6](<Linux/History 6.png>)
 
 
