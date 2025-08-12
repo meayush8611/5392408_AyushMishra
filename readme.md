@@ -52,7 +52,7 @@ This repository contains modules, assignments, and proof of completion.
 
 
 
-### 🖼️ SimpliLearn Git Training Certificate Screenshot:
+### 🖼️ SimpliLearn Git Training Certificate:
 
 
 
@@ -60,7 +60,7 @@ This repository contains modules, assignments, and proof of completion.
 
 
 
-### 🖼️ CodeSignal Git Training Certificate Screenshot:
+### 🖼️ CodeSignal Git Training Certificate:
 
 
 
@@ -92,5 +92,13 @@ This repository contains modules, assignments, and proof of completion.
 ![Linux History Screenshot 4](<Linux/History 4.png>)
 ![Linux History Screenshot 5](<Linux/History 5.png>)
 ![Linux History Screenshot 6](<Linux/History 6.png>)
+
+
+
+### 🖼️ SoloLearn Certificates:
+
+![Introduction To C programming](<C Programming/SoloLearn/Introduction to C.jpg>)
+
+![C Programming Internediate Level ](<C Programming/SoloLearn/C Intermediate.jpg>)
 
 
